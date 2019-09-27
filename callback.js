@@ -1,6 +1,6 @@
 function name (nama,callback) {
     setTimeout((name2)=>{
-        callback(name2)
+        callback(name2);
     },1500,nama)
 }
 
